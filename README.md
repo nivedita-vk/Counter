@@ -1,6 +1,6 @@
 # 🔢 Counter
 
-A simple counter app built while learning HTML, CSS, and JavaScript.
+> A simple counter app built while learning HTML, CSS, and JavaScript.
 
 ## 🎬 Demo
 
